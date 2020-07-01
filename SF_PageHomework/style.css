@@ -127,7 +127,7 @@ body {
   
   
   .page-1 {
-    background-image: url(../images/background_image.jpg);
+    background-image: url(images/background_image.jpg);
     background-size: cover;
     height: 707px;
     position: relative;
