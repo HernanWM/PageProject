@@ -606,9 +606,7 @@ input:checked + label:before {
     margin: 0 130px 0 140px;
 }
 
-.section_5_list_text {
 
-}
 
 .list_5 {
     display: flex;
@@ -650,9 +648,7 @@ input:checked + label:before {
     padding: 28px 49px;
 }
 
-.black_box_form {
 
-}
 
 .black_box_title {
     color: white;
